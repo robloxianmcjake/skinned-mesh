@@ -1,0 +1,14 @@
+it is important that I advise you NOT to use the texture in the file for roblox, this could get your account deleted.
+
+STEP 1. open up roblox studio and go to the plugins tab. once you are there, you will see a button (if you scroll to the side),
+that says "Avatar Importer" and click it. once you are their, click "Custom" with the egg icon and locate the .fbx file on this folder.
+when you have located the .fbx file, click it and press "open".
+
+STEP 2.
+go to https://www.roblox.com/library/5984399911/tsg-finaldiff-test and use that texture to apply to the mesh.
+after you have done that scale the character to a size that a roblox character would be.
+
+
+
+
+enjoy
